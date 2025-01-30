@@ -1,0 +1,11 @@
+.app-container {
+  background-color: #f0e6d5; /* Light brown background */
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+}

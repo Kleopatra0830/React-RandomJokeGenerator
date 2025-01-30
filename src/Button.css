@@ -1,0 +1,20 @@
+.joke-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s;
+    margin: 10px;
+}
+
+.joke-button:hover {
+    background-color: #0056b3;
+}
+
+.joke-button:active {
+    background-color: #004494;
+}

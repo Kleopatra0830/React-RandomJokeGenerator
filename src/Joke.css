@@ -1,0 +1,35 @@
+.joke-container {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #f5deb3; /* Light brown background */
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    margin: auto;
+}
+
+.joke-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    color: #4b2e39;
+}
+
+.history-container {
+    margin-top: 30px;
+    text-align: left;
+    padding: 10px;
+    border-top: 2px solid #d2b48c;
+}
+
+.history-container h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.history-item {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #4b2e39;
+}
