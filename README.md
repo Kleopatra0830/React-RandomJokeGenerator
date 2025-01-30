@@ -43,6 +43,12 @@ This project is a **Random Joke Generator** built with React. The application fe
    http://localhost:3000
    ```
 
+### Screenshot
+
+Here is an example of the app in action:
+<img width="1680" alt="Screenshot 2025-01-30 at 6 37 14 PM" src="https://github.com/user-attachments/assets/c15fc35a-1d96-494c-b5e1-d9491746a7d1" />
+<img width="1133" alt="Screenshot 2025-01-30 at 6 37 50 PM" src="https://github.com/user-attachments/assets/845ebad0-ae4f-43f0-b12f-c37064f11b35" />
+
 
 ### Main Files
 
